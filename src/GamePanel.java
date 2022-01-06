@@ -1,3 +1,5 @@
+//SnakeGame.java contains the main method
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

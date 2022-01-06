@@ -1,4 +1,4 @@
-
+//SnakeGame.java contains the main method
 import javax.swing.JFrame;
 
 
